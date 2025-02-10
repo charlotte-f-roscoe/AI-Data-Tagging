@@ -18,4 +18,5 @@ Table of Contents:
   * *Connecting SageMaker to OpenSearch in order for the model to query the indexed database*
 
 AWS Services overview:
+
 ![Reduced Scope Overview](https://i.postimg.cc/tg15N2WB/AWS-Reduced-Flowchart.png)
