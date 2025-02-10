@@ -6,6 +6,8 @@ title: Creating an AI Data Tagging Solution for Amazon RDS
 # Creating an AI Data Tagging Solution for Amazon RDS
 Charlotte Roscoe & Lydia Schubert
 
+The diagrams in this project are best viewed in light mode.
+
 **In this markdown document we will be giving a general overview of the steps we took to create an AI Data Tagging Solution for Amazon RDS. Detailed instructions can be found in the documents corresponding to the steps.**
 
 ## Step 0: Defining the Project
